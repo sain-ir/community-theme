@@ -1,1 +1,1 @@
-A theme for use in dev.liferayportal.ir
+To use with sain-ckeditor-contributor 
