@@ -1,0 +1,32 @@
+{
+	"devDependencies": {
+		"gulp": "3.9.1",
+		"liferay-theme-deps-7.1": "^8.0.9",
+		"liferay-theme-tasks": "8.0.4"
+	},
+	"keywords": [
+		"liferay-theme"
+	],
+	"liferayTheme": {
+		"baseTheme": "styled",
+		"screenshot": "",
+		"rubySass": true,
+		"templateLanguage": "ftl",
+		"version": "7.1"
+	},
+	"main": "package.json",
+	"name": "community-theme",
+	"version": "1.0.0",
+	"dependencies": {
+		"fs-extra": "^7.0.1",
+		"gulp-if": "^2.0.2",
+		"gulp-load-plugins": "^1.5.0",
+		"gulp-postcss": "^8.0.0",
+		"gulp-rename": "^1.4.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.5",
+		"lodash": "^4.17.11",
+		"tar-fs": "^2.0.0",
+		"vinyl-paths": "^2.1.0"
+	}
+}
